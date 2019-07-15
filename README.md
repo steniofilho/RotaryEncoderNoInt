@@ -44,3 +44,4 @@ void loop()
   }
 }
 ```
+<img src="https://github.com/steniofilho/RotaryEncoderNoInt/raw/master/RotaryEncoderNoInt.png" height="50%" width="50%">
